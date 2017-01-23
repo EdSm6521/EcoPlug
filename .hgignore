@@ -1,0 +1,27 @@
+syntax: glob
+.git
+Development/Xamarin/App1/.vs/App1/v14/.suo
+Development/IOTTDevice/WiFiAccessPointReadADC/.vs/WiFiAccessPoint/v14/.suo
+**.mdb
+**.pdb
+Development/Xamarin/App1/App1/App1.Droid/obj
+Development/Xamarin/App1/App1/App1.WinPhone/obj
+Development/Xamarin/App1/App1/App1.iOS/Resources
+Development/Xamarin/App1/App1/App1.iOS/obj
+Development/Xamarin/App1/App1/App1/obj
+Development/Xamarin/App1/App1/App1/bin
+References/PhoneApp2/PhoneApp2/Bin
+References/PhoneApp2/PhoneApp2/obj
+**.suo
+**.sdf
+Development/Device/WIFI_ReadCurrent_XamarinServer/Main/__vm
+Development/Xamarin/EcoPlug/App1/App1.Droid/bin
+Development/Xamarin/EcoPlug/App1/App1.Droid/obj
+Development/Xamarin/EcoPlug/App1/App1.WinPhone/bin
+Development/Xamarin/EcoPlug/App1/App1.WinPhone/obj
+Development/Xamarin/EcoPlug/App1/App1.iOS/obj
+Development/Xamarin/EcoPlug/App1/App1/bin
+Development/Xamarin/EcoPlug/App1/App1/obj
+Development/Test/WiFiAccessPoint/__vm
+Development/Xamarin/EcoPlug/packages
+Development/Xamarin/EcoPlug/App1/App1.iOS/bin
